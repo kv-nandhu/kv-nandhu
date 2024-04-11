@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nandhu krishna kv</h1>
 <h3 align="center">developer</h3>
+ <div align="right" >
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&background=EF140F00&width=435&lines=Hi+!+I+am+Akhil+Raj;Flutter+developer;Freelancer" alt="Typing SVG" /></a>
+  </div>
 <img align="right" alt="coding"width="400" src"https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img align="center" alt="vscode" width="auto" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kv-nandhu&label=Profile%20views&color=0e75b6&style=flat" alt="kv-nandhu" /> </p>
